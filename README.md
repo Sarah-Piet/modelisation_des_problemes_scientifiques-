@@ -14,11 +14,11 @@ Ce qu'il faut savoir faire à la fin des séances de TPs:
 
 ### Séance 1 (2h)
 
-Lire le [script](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/Aides/Numpy.ipynb) sur Numpy et déterminer ce que rendent les fonctions de la fin.
+Lire le [notebook](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/Aides/Numpy.ipynb) sur numpy (Aides/Numpy) et déterminer ce que rendent les fonctions de la fin.
 
-Faire le TP1 en s'aidant du [script](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/Aides/Pandas.ipynb)
+Faire le TP1 en s'aidant du [notebook](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/Aides/Pandas.ipynb) sur pandas (Aides/Pandas).
 
-S'il vous reste du temps, commencez le TP3.
+Puis commencer le TP3.
 
 ### Séance 2 (2h)
 
