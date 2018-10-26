@@ -32,6 +32,6 @@ TP4
 
 TP5
 
-#### séance 4 (2h)
+#### Séance 4 (2h)
 
 TP noté
