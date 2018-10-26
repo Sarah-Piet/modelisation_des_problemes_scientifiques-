@@ -14,7 +14,7 @@ Ce qu'il faut savoir faire à la fin des séances de TPs:
 
 ### Séance 1 (2h)
 
-Lire le TP1 sur Numpy et déterminer ce que rendent les fonctions de la fin du script.
+Lire le [TP1](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/Aides/Numpy.ipynb) sur Numpy et déterminer ce que rendent les fonctions de la fin du script.
 
 Lire le TP2 sur Pandas et faire le TP associé.
 
