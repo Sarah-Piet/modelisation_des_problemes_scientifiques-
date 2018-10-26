@@ -5,10 +5,12 @@ Cette partie du cours présente quelques librairies utiles pour faire du calcul 
 
 Ce qu'il faut savoir faire à la fin des séances de TPs:
  - Importer un jeu de données
- - Pouvoir extraire des informations utiles de ce jeu de données
+ - Pouvoir extraire des informations utiles de ce jeu de données, quelques satistiques descriptives
  - Visualiser ces informations sous forme graphique
  - Savoir lancer quelques méthodes statistiques
+ - Pouvoir paralléliser des calculs
  
+Le cours est basé sur python, mais si vous souhaitez travailler avec d'autres logiciels, comme R par exemple, c'est possible.
 
 ## Exercices
 
@@ -16,9 +18,9 @@ Ce qu'il faut savoir faire à la fin des séances de TPs:
 
 Lire le [notebook](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/Aides/Numpy.ipynb) sur numpy (Aides/Numpy) et déterminer ce que rendent les fonctions de la fin.
 
-Faire le TP1 en s'aidant du [notebook](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/Aides/Pandas.ipynb) sur pandas (Aides/Pandas).
+Faire le TP1 sur la gestion des tables en s'aidant du [notebook](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/Aides/Pandas.ipynb) sur pandas (Aides/Pandas).
 
-Puis commencer le TP3.
+Puis commencer le TP2.
 
 ### Séance 2 (2h)
 
