@@ -43,6 +43,6 @@ TP3
 
 Supplément Machine Learning?
 
-#### Séance 4 : Mercredi 28/11/2018 10h15-12h15 en B12D i-214
+### Séance 4 : Mercredi 28/11/2018 10h15-12h15 en B12D i-214
 
 TP noté
