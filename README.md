@@ -30,7 +30,7 @@ Puis commencer le [TP1](https://github.com/llesoil/modelisation_des_problemes_sc
 
 ### Séance 2 : Mercredi 14/11/2018, 08h00-10h00 en B02B-E209 (20) vidéo
 
-Si vous avez encore des questions à faire sur le TP1, vous pouvez le finir.
+Si vous avez encore des questions à faire sur le [TP1](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/TPs/TP1%20-%20Le%20prix%20du%20carburant%20en%20France.ipynb), vous pouvez le finir.
 
 La partie suivante est la plus théorique et parfois très formelle; le but est juste d'appliquer les fonctions, pas nécessairement de comprendre comment c'est construit, pas de panique!
 
