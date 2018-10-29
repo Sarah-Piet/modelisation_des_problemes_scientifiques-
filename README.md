@@ -5,13 +5,13 @@ Cette partie du cours présente quelques librairies utiles pour faire du calcul 
 
 Ce qu'il faut savoir faire à la fin des séances de TPs:
  - Importer un jeu de données
- - Pouvoir extraire des informations utiles de ce jeu de données, sortir quelques statistiques descriptives
+ - Pouvoir en extraire des informations utiles, sortir quelques statistiques descriptives
  - Visualiser ces informations sous forme graphique
  - Savoir lancer quelques méthodes plus pointues
  - Pouvoir paralléliser des calculs
  
 Le module est basé sur python, mais si vous souhaitez travailler avec d'autres logiciels, comme R par exemple, c'est possible.
-Amenez vos oridnateurs!
+Amenez vos ordinateurs!
 
 ## Organisation
 
