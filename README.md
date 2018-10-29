@@ -33,7 +33,7 @@ Puis commencer le [TP1](https://github.com/llesoil/modelisation_des_problemes_sc
 
 Si vous avez encore des questions à faire sur le TP1, vous pouvez le finir.
 
-Cette partie est la plus théorique et parfois très formelle, le but est juste d'appliquer les fonctions, pas nécessairement de comprendre comment c'est construit.
+La partie suivante est la plus théorique et parfois très formelle; le but est juste d'appliquer les fonctions, pas nécessairement de comprendre comment c'est construit, pas de panique!
 
 Faire le TP2 en s'aidant de [ce notebook](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/Aides/M%C3%A9thodes%20statistiques.ipynb) (Aides/Méthodes Statistiques).
 
