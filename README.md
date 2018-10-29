@@ -10,7 +10,14 @@ Ce qu'il faut savoir faire à la fin des séances de TPs:
  - Savoir lancer quelques méthodes statistiques
  - Pouvoir paralléliser des calculs
  
-Le cours est basé sur python, mais si vous souhaitez travailler avec d'autres logiciels, comme R par exemple, c'est possible.
+Le module est basé sur python, mais si vous souhaitez travailler avec d'autres logiciels, comme R par exemple, c'est possible.
+Amenez vos oridnateurs!
+
+## Organisation
+
+- 3 x 2h de TP + 1 TP noté de 2h, vous aurez un délai (à définir) pour m'envoyer votre travail. Amenez vos ordinateurs, ce sont des séances pratiques!
+- Tous les TPs sont disponibles dans la section TPs, et corrigés dans la section Corrections, sauf le TP noté, jouez le jeu! Le dossier Aides est constitué d'exemples de TP qui sont des "pseudos-cours", pour vous donner une idée de l'utilisation des fonctions que vous aurez à manipuler.
+-  Si vous êtes perdus, n'hésitez pas à m'appeler!
 
 ## Exercices
 
