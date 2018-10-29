@@ -19,9 +19,9 @@ Amenez vos oridnateurs!
 - Tous les TPs sont disponibles dans la section TPs, et corrigés dans la section Corrections, sauf le TP noté, jouez le jeu! Le dossier Aides est constitué d'exemples de TP qui sont des "pseudos-cours", pour vous donner une idée de l'utilisation des fonctions que vous aurez à manipuler.
 -  Si vous êtes perdus, n'hésitez pas à m'appeler!
 
-## Exercices
+## Contenu des séances
 
-### Séance 1 (2h)
+### Séance 1 : Lundi 12/11/2018 , 10h15-12h15 en B02B-E210 (13) vidéo
 
 Lire [ce notebook](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/Aides/Numpy.ipynb) sur numpy (Aides/Numpy) et déterminer ce que rendent les fonctions de la fin.
 
@@ -29,18 +29,18 @@ Lire [ce notebook](https://github.com/llesoil/modelisation_des_problemes_scienti
  
 Puis commencer le [TP1](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/TPs/TP1%20-%20Le%20prix%20du%20carburant%20en%20France.ipynb) (TPs/TP1- Le prix du carburant en France) en s'aidant de [ce notebook](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/Aides/Visualisation%20des%20donn%C3%A9es.ipynb) (Aides/Visualisation des données).
 
-### Séance 2 (2h)
+### Séance 2 : Mercredi 14/11/2018 08h00-10h00 en B02B-E209 (20) vidéo
 
 Lire l'aide sur la visualisation et faire le TP2.
 
 Démarrer le TP4?
 
-### Séance 3 (2h)
+### Séance 3 : Mardi 20/11/2018 08h00-10h00 en B12D i-210
 
 TP4
 
 TP5
 
-#### Séance 4 (2h)
+#### Séance 4 : Mercredi 28/11/2018 10h15-12h15 en B12D i-214
 
 TP noté
