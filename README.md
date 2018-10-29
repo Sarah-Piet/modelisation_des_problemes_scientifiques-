@@ -22,7 +22,7 @@ Le module est basé sur python, mais si vous préférez travailler avec d'autres
 
 ### Séance 1 : Lundi 12/11/2018, 10h15-12h15 en B02B-E210 (13) vidéo
 
-Lire [ce notebook](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/Aides/Numpy.ipynb) sur numpy (Aides/Numpy) et déterminer ce que rendent les fonctions "mystères" de la fin.
+ -> Lire [ce notebook](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/Aides/Numpy.ipynb) sur numpy (Aides/Numpy) et déterminer ce que rendent les fonctions "mystères" de la fin.
 
 Lire [ce notebook](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/Aides/Pandas.ipynb) sur pandas (Aides/Pandas).
  
