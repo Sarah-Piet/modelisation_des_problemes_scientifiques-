@@ -21,7 +21,7 @@ Amenez vos ordinateurs!
 
 ## Contenu des séances
 
-### Séance 1 : Lundi 12/11/2018 , 10h15-12h15 en B02B-E210 (13) vidéo
+### Séance 1 : Lundi 12/11/2018, 10h15-12h15 en B02B-E210 (13) vidéo
 
 Lire [ce notebook](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/Aides/Numpy.ipynb) sur numpy (Aides/Numpy) et déterminer ce que rendent les fonctions de la fin.
 
@@ -29,7 +29,7 @@ Lire [ce notebook](https://github.com/llesoil/modelisation_des_problemes_scienti
  
 Puis commencer le [TP1](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/TPs/TP1%20-%20Le%20prix%20du%20carburant%20en%20France.ipynb) (TPs/TP1- Le prix du carburant en France) en s'aidant de [ce notebook](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/Aides/Visualisation%20des%20donn%C3%A9es.ipynb) (Aides/Visualisation des données).
 
-### Séance 2 : Mercredi 14/11/2018 08h00-10h00 en B02B-E209 (20) vidéo
+### Séance 2 : Mercredi 14/11/2018, 08h00-10h00 en B02B-E209 (20) vidéo
 
 Si vous avez encore des questions à faire sur le TP1, vous pouvez le finir.
 
@@ -37,12 +37,12 @@ La partie suivante est la plus théorique et parfois très formelle; le but est 
 
 Faire le TP2 en s'aidant de [ce notebook](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/Aides/M%C3%A9thodes%20statistiques.ipynb) (Aides/Méthodes Statistiques).
 
-### Séance 3 : Mardi 20/11/2018 08h00-10h00 en B12D i-210
+### Séance 3 : Mardi 20/11/2018, 08h00-10h00 en B12D i-210
 
 TP3
 
 Supplément Machine Learning?
 
-### Séance 4 : Mercredi 28/11/2018 10h15-12h15 en B12D i-214
+### Séance 4 : Mercredi 28/11/2018, 10h15-12h15 en B12D i-214
 
 TP noté
