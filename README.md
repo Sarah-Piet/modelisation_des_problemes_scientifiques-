@@ -10,8 +10,7 @@ Ce qu'il faut savoir faire à la fin des séances de TPs:
  - Savoir lancer quelques méthodes plus pointues
  - Pouvoir paralléliser des calculs
  
-Le module est basé sur python, mais si vous souhaitez travailler avec d'autres logiciels, comme R par exemple, c'est possible.
-Amenez vos ordinateurs!
+Le module est basé sur python, mais si vous préférez travailler avec d'autres logiciels, comme R par exemple, c'est possible.
 
 ## Organisation
 
