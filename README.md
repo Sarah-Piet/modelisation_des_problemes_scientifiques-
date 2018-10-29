@@ -20,7 +20,7 @@ Lire le [notebook](https://github.com/llesoil/modelisation_des_problemes_scienti
 
 Lire le [notebook](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/Aides/Pandas.ipynb) sur pandas (Aides/Pandas).
  
-Puis commencer le [TP1](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/TPs/TP1%20-%20Le%20prix%20du%20carburant%20en%20France.ipynb) en s'aidant du [notebook](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/Aides/Visualisation%20des%20donn%C3%A9es.ipynb).
+Puis commencer le [TP1](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/TPs/TP1%20-%20Le%20prix%20du%20carburant%20en%20France.ipynb) (TPs/TP1- Le prix du carburant en France) en s'aidant du [notebook](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/Aides/Visualisation%20des%20donn%C3%A9es.ipynb) (Aides/Visualisation des données).
 
 ### Séance 2 (2h)
 
