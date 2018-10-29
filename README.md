@@ -15,7 +15,7 @@ Le module est basé sur python, mais si vous préférez travailler avec d'autres
 ## Organisation
 
 - 3 x 2h de TP + 1 TP noté de 2h. Pour le tp noté, vous aurez un délai (à définir ensemble en fonction de votre charge de travail du moment) pour m'envoyer votre travail. Amenez vos ordinateurs, ce sont des séances pratiques!
-- Tous les TPs sont disponibles dans la section TPs, et corrigés dans la section Corrections. Vous pouvez vous "débloquer" si vous coincez vraiment, mais jouez le jeu! Le dossier Aides est constitué d'exemples de TP qui sont des "pseudos-cours", pour vous donner une idée de l'utilisation des fonctions que vous aurez à manipuler. Le dossier Ressources contient tous les jeux de données utilisés pour les TPs/aides.
+- Tous les TPs sont disponibles dans la section TPs, et corrigés dans la section Corrections. Vous pouvez vous "débloquer" si vous coincez vraiment, mais jouez le jeu! Le dossier Aides est constitué d'exemples de TP qui sont des "pseudo-cours", pour vous donner une idée de l'utilisation des fonctions que vous aurez à manipuler. Le dossier Ressources contient tous les jeux de données utilisés pour les TPs/aides.
 -  Si vous êtes perdus, ou que vous avez besoin d'aide, n'hésitez pas à m'appeler!
 
 ## Contenu des séances
