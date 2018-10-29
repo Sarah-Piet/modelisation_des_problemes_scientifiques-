@@ -15,8 +15,8 @@ Amenez vos oridnateurs!
 
 ## Organisation
 
-- 3 x 2h de TP + 1 TP noté de 2h, vous aurez un délai (à définir ensemble en fonction de votre charge de travail du moment) pour m'envoyer votre travail. Amenez vos ordinateurs, ce sont des séances pratiques!
-- Tous les TPs sont disponibles dans la section TPs, et corrigés dans la section Corrections, sauf le TP noté, jouez le jeu! Le dossier Aides est constitué d'exemples de TP qui sont des "pseudos-cours", pour vous donner une idée de l'utilisation des fonctions que vous aurez à manipuler.
+- 3 x 2h de TP + 1 TP noté de 2h. Pour le tp noté, vous aurez un délai (à définir ensemble en fonction de votre charge de travail du moment) pour m'envoyer votre travail. Amenez vos ordinateurs, ce sont des séances pratiques!
+- Tous les TPs sont disponibles dans la section TPs, et corrigés dans la section Corrections, jouez le jeu! Le dossier Aides est constitué d'exemples de TP qui sont des "pseudos-cours", pour vous donner une idée de l'utilisation des fonctions que vous aurez à manipuler.
 -  Si vous êtes perdus, n'hésitez pas à m'appeler!
 
 ## Contenu des séances
@@ -31,15 +31,17 @@ Puis commencer le [TP1](https://github.com/llesoil/modelisation_des_problemes_sc
 
 ### Séance 2 : Mercredi 14/11/2018 08h00-10h00 en B02B-E209 (20) vidéo
 
-Lire l'aide sur la visualisation et faire le TP2.
+Si vous avez encore des questions à faire sur le TP1, vous pouvez le finir.
 
-Démarrer le TP4?
+Cette partie est la plus théorique et parfois très formelle, le but est juste d'appliquer les fonctions, pas nécessairement de comprendre comment c'est construit.
+
+Faire le TP2 en s'aidant de [ce notebook](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/Aides/M%C3%A9thodes%20statistiques.ipynb) (Aides/Méthodes Statistiques).
 
 ### Séance 3 : Mardi 20/11/2018 08h00-10h00 en B12D i-210
 
-TP4
+TP3
 
-TP5
+Supplément Machine Learning?
 
 #### Séance 4 : Mercredi 28/11/2018 10h15-12h15 en B12D i-214
 
