@@ -34,11 +34,11 @@ Le module est basé sur python, mais si vous préférez travailler avec d'autres
 
 La partie suivante est la plus théorique et parfois très formelle; le but est juste d'appliquer les fonctions, pas nécessairement de comprendre comment c'est construit, pas de panique!
 
-→ Faire le TP2 en s'aidant de [ce notebook](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/Aides/M%C3%A9thodes%20statistiques.ipynb) (Aides/Méthodes Statistiques).
+→ Faire le [TP2](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/TPs/TP2%20-%20La%20satisfaction%20de%20la%20client%C3%A8le%20de%20la%20SNCF.ipynb) (TPs/TP2 - La satisfaction de la clientèle de la SNCF) en s'aidant de [ce notebook](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/Aides/M%C3%A9thodes%20statistiques.ipynb) (Aides/Méthodes Statistiques).
 
 ### Séance 3 : Mardi 20/11/2018, 08h00-10h00 en B12D i-210
 
-→ Faire le TP3
+→ Faire le [TP3](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/TPs/TP3%20-%20Classification%20de%20chiffres.ipynb) (TPs/TP3- Classification de chiffres), vous pouvez toujours vous aider de [ce notebook](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/Aides/M%C3%A9thodes%20statistiques.ipynb) (Aides/Méthodes Statistiques).
 
 → S'il vous reste du temps, vous pouvez regarder le supplément Machine Learning.
 
