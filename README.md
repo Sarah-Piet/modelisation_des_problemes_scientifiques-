@@ -12,6 +12,8 @@ Ce qu'il faut savoir faire à la fin des séances de TPs:
  
 Le module est basé sur python, mais si vous préférez travailler avec d'autres logiciels, comme R par exemple, c'est possible.
 
+Vous pouvez me contacter à cette adresse mail : luc.lesoil@irisa.fr (lesoil.luc.ensai@gmail.com en week-end)
+
 ## Organisation
 
 - 3 x 2h de TP + 1 TP noté de 2h. Pour le tp noté, vous aurez un délai (à définir ensemble en fonction de votre charge de travail du moment) pour m'envoyer votre travail. Amenez vos ordinateurs, ce sont des séances pratiques!
