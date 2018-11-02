@@ -42,8 +42,6 @@ La partie suivante est la plus théorique et parfois très formelle; le but est 
 
 → Faire le [TP3](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/TPs/TP3%20-%20Classification%20de%20chiffres.ipynb) (TPs/TP3- Classification de chiffres), vous pouvez toujours vous aider de [ce notebook](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/Aides/M%C3%A9thodes%20statistiques.ipynb) (Aides/Méthodes Statistiques).
 
-→ S'il vous reste du temps, vous pouvez regarder le supplément Machine Learning.
-
 ### Séance 4 : Mercredi 28/11/2018, 10h15-12h15 en B12D i-214
 
 → TP noté
