@@ -1,132 +1,132 @@
 Agence,Gare,Global_2018,Accessibilite_2018,Proprete_2018,Confort_2018
-DGGP,AEROPORT CDG2 TGV ROISSY,"7,31","7,94","7,91",7
-DGGP,MARNE LA VALLEE CHESSY,"7,35","7,63","7,94","6,67"
-DGGP,MASSY TGV,"6,97","7,42","7,95","6,88"
-DGGP,PARIS AUSTERLITZ,"6,86","7,59","7,38","6,92"
-DGGP,PARIS BERCY,"7,1","7,63","7,69","6,92"
-DGGP,PARIS GARE DE L'EST,"7,17","7,82","7,28","6,57"
-DGGP,PARIS GARE DE LYON,"7,07","7,59","7,37","6,69"
-DGGP,PARIS GARE DU NORD,"6,51","7,11","6,7","5,87"
-DGGP,PARIS MONTPARNASSE,"6,76","7,62","7,2","6,31"
-DGGP,PARIS ST LAZARE,"7,17","7,43","7,5","6,64"
-Centre Est Rhone Alpin,AIX LES BAINS LE REVARD,"7,26","7,65","7,85","7,15"
-Centre Est Rhone Alpin,ANNECY,"7,63","7,98","8,09","7,41"
-Centre Est Rhone Alpin,BELFORT MONTBELIARD TGV,"8,27","7,33","8,75","8,19"
-Centre Est Rhone Alpin,BELLEGARDE,"7,57","7,23","8,22","7,48"
-Centre Est Rhone Alpin,BESANCON FRANCHE COMTE TGV,"7,97","7,27","9,02","7,82"
-Centre Est Rhone Alpin,BESANCON VIOTTE,"7,63","7,98","7,85","7,59"
-Centre Est Rhone Alpin,BOURG EN BRESSE,"7,86","8,24","8,45","7,22"
-Centre Est Rhone Alpin,BOURG ST MAURICE,"7,87","8,08","7,74","7,42"
-Centre Est Rhone Alpin,CHAMBERY CHALLES LES EAUX,"6,86","7,43","7,59",7
-Centre Est Rhone Alpin,CLERMONT FERRAND,"7,4","7,76","7,95","7,21"
-Centre Est Rhone Alpin,DIJON VILLE,"7,66","8,25","8,02","7,4"
-Centre Est Rhone Alpin,GRENOBLE,"7,43","8,12","7,81","7,32"
-Centre Est Rhone Alpin,LE CREUSOT MONTCEAU MONTCHANIN,"7,83","7,54","8,6","7,55"
-Centre Est Rhone Alpin,LYON PART DIEU,"6,75","7,74","7,15","6,21"
-Centre Est Rhone Alpin,LYON PERRACHE,"7,14","8,01","7,72","7,16"
-Centre Est Rhone Alpin,LYON SAINT EXUPERY TGV,"7,55","7,65","8,21","7,23"
-Centre Est Rhone Alpin,MACON LOCHE TGV,"8,27","7,31","8,55","7,97"
-Centre Est Rhone Alpin,MOUTIERS SALINS,"7,08","8,16","7,56","6,7"
-Centre Est Rhone Alpin,NEVERS,"7,17","7,58","7,97","7,39"
-Centre Est Rhone Alpin,ST ETIENNE CHATEAUCREUX,"7,48","7,99","7,7","7,3"
-Centre Est Rhone Alpin,VALENCE TGV RHONE ALPES SUD,"7,27","7,46","7,97","7,24"
-Centre Est Rhone Alpin,VICHY,"7,67","7,93","7,89","6,85"
-Centre Ouest,ANGERS ST LAUD,"7,69","8,16","7,77","6,63"
-Centre Ouest,AURAY,"7,23","7,28","7,9","6,66"
-Centre Ouest,BLOIS-CHAMBORD,"7,06","7,56","7,77","6,92"
-Centre Ouest,BOURGES,"6,93","7,29","7,05","6,93"
-Centre Ouest,BREST,"7,54","8,6","8,25","7,12"
-Centre Ouest,CHATEAUROUX,"7,74","8,09","8,46","7,73"
-Centre Ouest,GUINGAMP,"8,06","8,22","8,46","7,66"
-Centre Ouest,LA BAULE ESCOUBLAC,"7,95","8,03","8,49","7,38"
-Centre Ouest,LA ROCHE SUR YON,"7,5","7,77","7,71","6,65"
-Centre Ouest,LAVAL,"7,72","7,43","8,32","7,31"
-Centre Ouest,LE MANS,"7,6","8,15","7,79","7,3"
-Centre Ouest,LES AUBRAIS,"7,01","7,2","7,58",7
-Centre Ouest,LORIENT SUD BRETAGNE,"8,05","7,79","8,28","7,95"
-Centre Ouest,MORLAIX,"7,97","7,31","8,58","7,81"
-Centre Ouest,NANTES,"6,8","7,56","7,7","6,66"
-Centre Ouest,ORLEANS,"7,71","8,07","8,04","7,85"
-Centre Ouest,QUIMPER,"7,14","7,64","7,82","6,91"
-Centre Ouest,RENNES,"5,96","6,59","7,19","6,22"
-Centre Ouest,ST BRIEUC,"7,29","5,86","8,27","7,71"
-Centre Ouest,ST MALO,"7,67","8,2","8,04","7,23"
-Centre Ouest,ST NAZAIRE,"7,19","7,66","7,77","7,46"
-Centre Ouest,ST PIERRE DES CORPS,"7,08","6,92","7,48","6,79"
-Centre Ouest,TOURS,"7,91","8,49","8,4","7,45"
-Centre Ouest,VANNES,"7,5","7,71","7,76","6,89"
-Centre Ouest,VENDOME VILLIERS SUR LOIR,"8,22","7,52","8,39","7,44"
-Centre Ouest,VIERZON VILLE,"7,11","7,39","7,42","7,4"
-Est Europeen,CHAMPAGNE ARDENNE,"7,92","7,56","8,57","7,72"
-Est Europeen,CHARLEVILLE MEZIERES,"7,25","8,06","8,09","7,19"
-Est Europeen,COLMAR,"7,91","8,24","7,68","7,39"
-Est Europeen,LORRAINE TGV,"7,8","7,12","8,31","7,45"
-Est Europeen,METZ VILLE,"8,02","8,11","8,05","7,16"
-Est Europeen,MEUSE TGV,"8,28","8,04","8,78","8,12"
-Est Europeen,MULHOUSE VILLE,"7,37","8,14","7,62","7,4"
-Est Europeen,NANCY,"7,71","8,24","8,07","7,18"
-Est Europeen,REIMS,"7,66","8,18","8,05","7,02"
-Est Europeen,STRASBOURG,"7,8","8,23","7,83","6,9"
-Est Europeen,THIONVILLE,"7,65","7,74","8,02","7,71"
-Est Europeen,TROYES,"7,35","7,5","7,91","7,34"
-Grand Sud,AGDE,"7,29","6,95","8,13","7,52"
-Grand Sud,AIX EN PROVENCE TGV,"7,75","7,46","7,95","7,46"
-Grand Sud,AIX VILLE,"7,69","7,84","8,12","7,46"
-Grand Sud,ALBI,"8,03","8,12","8,67","7,82"
-Grand Sud,ANTIBES,"7,43","7,91","7,57","6,88"
-Grand Sud,AVIGNON CENTRE,"7,3","7,76","7,48","7,08"
-Grand Sud,AVIGNON TGV,"8,02","7,52","8,46","7,35"
-Grand Sud,BEZIERS,"7,1","7,17","7,64","7,1"
-Grand Sud,CANNES,"7,6","8,16","7,65","7,51"
-Grand Sud,CARCASSONNE,"7,16","7,4","7,43","7,12"
-Grand Sud,GAP,"7,16","7,63","7,76","7,09"
-Grand Sud,LES ARCS DRAGUIGNAN,"7,54","7,05","8,24","7,12"
-Grand Sud,LOURDES,"7,82","8,18","8,62","7,74"
-Grand Sud,MARSEILLE ST CHARLES,"7,13","8,05","7,21","6,37"
-Grand Sud,MONACO,"8,22","8,42","9,01","7,15"
-Grand Sud,MONTAUBAN VILLE BOURBON,"7,76","7,32","8,31","7,44"
-Grand Sud,MONTPELLIER SAINT ROCH,"7,73","8,26","7,93","7,21"
-Grand Sud,MONTPELLIER Sud de France,"6,4","5,01","9,04","7,45"
-Grand Sud,NARBONNE,"7,31","7,25","7,63","6,99"
-Grand Sud,NICE RIQUIER,"6,68","7,72","6,23","6,22"
-Grand Sud,NICE VILLE,"7,45","7,95","7,86","6,78"
-Grand Sud,NIMES,"7,46","7,9","8,14","6,38"
-Grand Sud,PERPIGNAN,"7,12","7,61","7,89","7,28"
-Grand Sud,SETE,"7,14","7,2","7,67",7
-Grand Sud,ST RAPHAEL VALESCURE,"7,47","7,83","7,84","7,65"
-Grand Sud,TARBES,"7,56","7,89","8,55","7,75"
-Grand Sud,TOULON,"7,7","7,75","7,86","7,49"
-Grand Sud,TOULOUSE MATABIAU,"7,38","8,21","7,92","7,07"
-Grand Sud,TOULOUSE ST AGNE,"7,45","8,36","8,18","6,74"
-Manche Nord,AMIENS,"7,4","7,98","7,7","7,29"
-Manche Nord,ARRAS,"7,98","8,28","8,49","7,8"
-Manche Nord,CAEN,"7,37","6,21","7,74","6,98"
-Manche Nord,CALAIS FRETHUN,"6,75","6,12","8,43","6,64"
-Manche Nord,CHERBOURG,"7,7","7,85","8,02","6,92"
-Manche Nord,COMPIEGNE,"7,44","7,95","8,3","7,31"
-Manche Nord,DOUAI,"7,77","8,17","7,32","7,07"
-Manche Nord,DUNKERQUE,"7,79","8,07","8,22","7,58"
-Manche Nord,EVREUX NORMANDIE,"7,14","7,38","7,75","6,53"
-Manche Nord,LE HAVRE,"7,41","8,34","7,58","7,72"
-Manche Nord,LENS,"7,63","7,55","8,28","7,61"
-Manche Nord,LILLE EUROPE,"6,82","8,06","7,68","6,5"
-Manche Nord,LILLE FLANDRES,"7,37","8,09","7,13","6,7"
-Manche Nord,LISIEUX,"6,5","7,56","7,29","7,06"
-Manche Nord,ROUEN RIVE DROITE,"7,6","7,18","8,58","7,27"
-Manche Nord,TGV HAUTE PICARDIE,"7,69","7,44","8,62","7,41"
-Manche Nord,TROUVILLE DEAUVILLE,"7,31",8,"7,67","7,08"
-Manche Nord,VALENCIENNES,"7,87","8,25","8,33","7,76"
-Nouvelle Aquitaine,AGEN,"7,97","7,93","8,51","7,7"
-Nouvelle Aquitaine,ANGOULEME,"7,35","7,03","8,45","7,4"
-Nouvelle Aquitaine,BAYONNE,"7,63","7,74","8,6","7,41"
-Nouvelle Aquitaine,BIARRITZ,"7,54","7,43","8,35","7,46"
-Nouvelle Aquitaine,BORDEAUX ST JEAN,"7,73","7,98","7,96","7,27"
-Nouvelle Aquitaine,BRIVE LA GAILLARDE,"7,91","7,86","8,43","7,72"
-Nouvelle Aquitaine,CHATELLERAULT,"7,67","8,32","8,46","7,71"
-Nouvelle Aquitaine,DAX,"7,85","7,82","8,33","7,65"
-Nouvelle Aquitaine,LA ROCHELLE VILLE,"7,91","7,58","8,45","7,7"
-Nouvelle Aquitaine,LIBOURNE,"8,04","8,3","8,02","7,64"
-Nouvelle Aquitaine,LIMOGES BENEDICTINS,8,8,"8,56","7,59"
-Nouvelle Aquitaine,NIORT,"7,86","7,8","8,56","7,9"
-Nouvelle Aquitaine,PAU,"7,82","7,9","8,82","7,74"
-Nouvelle Aquitaine,POITIERS,"7,89","7,99","8,38","7,5"
+DGGP,AEROPORT CDG2 TGV ROISSY,7.31,7.94,7.91,7
+DGGP,MARNE LA VALLEE CHESSY,7.35,7.63,7.94,6.67
+DGGP,MASSY TGV,6.97,7.42,7.95,6.88
+DGGP,PARIS AUSTERLITZ,6.86,7.59,7.38,6.92
+DGGP,PARIS BERCY,7.1,7.63,7.69,6.92
+DGGP,PARIS GARE DE L'EST,7.17,7.82,7.28,6.57
+DGGP,PARIS GARE DE LYON,7.07,7.59,7.37,6.69
+DGGP,PARIS GARE DU NORD,6.51,7.11,6.7,5.87
+DGGP,PARIS MONTPARNASSE,6.76,7.62,7.2,6.31
+DGGP,PARIS ST LAZARE,7.17,7.43,7.5,6.64
+Centre Est Rhone Alpin,AIX LES BAINS LE REVARD,7.26,7.65,7.85,7.15
+Centre Est Rhone Alpin,ANNECY,7.63,7.98,8.09,7.41
+Centre Est Rhone Alpin,BELFORT MONTBELIARD TGV,8.27,7.33,8.75,8.19
+Centre Est Rhone Alpin,BELLEGARDE,7.57,7.23,8.22,7.48
+Centre Est Rhone Alpin,BESANCON FRANCHE COMTE TGV,7.97,7.27,9.02,7.82
+Centre Est Rhone Alpin,BESANCON VIOTTE,7.63,7.98,7.85,7.59
+Centre Est Rhone Alpin,BOURG EN BRESSE,7.86,8.24,8.45,7.22
+Centre Est Rhone Alpin,BOURG ST MAURICE,7.87,8.08,7.74,7.42
+Centre Est Rhone Alpin,CHAMBERY CHALLES LES EAUX,6.86,7.43,7.59,7
+Centre Est Rhone Alpin,CLERMONT FERRAND,7.4,7.76,7.95,7.21
+Centre Est Rhone Alpin,DIJON VILLE,7.66,8.25,8.02,7.4
+Centre Est Rhone Alpin,GRENOBLE,7.43,8.12,7.81,7.32
+Centre Est Rhone Alpin,LE CREUSOT MONTCEAU MONTCHANIN,7.83,7.54,8.6,7.55
+Centre Est Rhone Alpin,LYON PART DIEU,6.75,7.74,7.15,6.21
+Centre Est Rhone Alpin,LYON PERRACHE,7.14,8.01,7.72,7.16
+Centre Est Rhone Alpin,LYON SAINT EXUPERY TGV,7.55,7.65,8.21,7.23
+Centre Est Rhone Alpin,MACON LOCHE TGV,8.27,7.31,8.55,7.97
+Centre Est Rhone Alpin,MOUTIERS SALINS,7.08,8.16,7.56,6.7
+Centre Est Rhone Alpin,NEVERS,7.17,7.58,7.97,7.39
+Centre Est Rhone Alpin,ST ETIENNE CHATEAUCREUX,7.48,7.99,7.7,7.3
+Centre Est Rhone Alpin,VALENCE TGV RHONE ALPES SUD,7.27,7.46,7.97,7.24
+Centre Est Rhone Alpin,VICHY,7.67,7.93,7.89,6.85
+Centre Ouest,ANGERS ST LAUD,7.69,8.16,7.77,6.63
+Centre Ouest,AURAY,7.23,7.28,7.9,6.66
+Centre Ouest,BLOIS-CHAMBORD,7.06,7.56,7.77,6.92
+Centre Ouest,BOURGES,6.93,7.29,7.05,6.93
+Centre Ouest,BREST,7.54,8.6,8.25,7.12
+Centre Ouest,CHATEAUROUX,7.74,8.09,8.46,7.73
+Centre Ouest,GUINGAMP,8.06,8.22,8.46,7.66
+Centre Ouest,LA BAULE ESCOUBLAC,7.95,8.03,8.49,7.38
+Centre Ouest,LA ROCHE SUR YON,7.5,7.77,7.71,6.65
+Centre Ouest,LAVAL,7.72,7.43,8.32,7.31
+Centre Ouest,LE MANS,7.6,8.15,7.79,7.3
+Centre Ouest,LES AUBRAIS,7.01,7.2,7.58,7
+Centre Ouest,LORIENT SUD BRETAGNE,8.05,7.79,8.28,7.95
+Centre Ouest,MORLAIX,7.97,7.31,8.58,7.81
+Centre Ouest,NANTES,6.8,7.56,7.7,6.66
+Centre Ouest,ORLEANS,7.71,8.07,8.04,7.85
+Centre Ouest,QUIMPER,7.14,7.64,7.82,6.91
+Centre Ouest,RENNES,5.96,6.59,7.19,6.22
+Centre Ouest,ST BRIEUC,7.29,5.86,8.27,7.71
+Centre Ouest,ST MALO,7.67,8.2,8.04,7.23
+Centre Ouest,ST NAZAIRE,7.19,7.66,7.77,7.46
+Centre Ouest,ST PIERRE DES CORPS,7.08,6.92,7.48,6.79
+Centre Ouest,TOURS,7.91,8.49,8.4,7.45
+Centre Ouest,VANNES,7.5,7.71,7.76,6.89
+Centre Ouest,VENDOME VILLIERS SUR LOIR,8.22,7.52,8.39,7.44
+Centre Ouest,VIERZON VILLE,7.11,7.39,7.42,7.4
+Est Europeen,CHAMPAGNE ARDENNE,7.92,7.56,8.57,7.72
+Est Europeen,CHARLEVILLE MEZIERES,7.25,8.06,8.09,7.19
+Est Europeen,COLMAR,7.91,8.24,7.68,7.39
+Est Europeen,LORRAINE TGV,7.8,7.12,8.31,7.45
+Est Europeen,METZ VILLE,8.02,8.11,8.05,7.16
+Est Europeen,MEUSE TGV,8.28,8.04,8.78,8.12
+Est Europeen,MULHOUSE VILLE,7.37,8.14,7.62,7.4
+Est Europeen,NANCY,7.71,8.24,8.07,7.18
+Est Europeen,REIMS,7.66,8.18,8.05,7.02
+Est Europeen,STRASBOURG,7.8,8.23,7.83,6.9
+Est Europeen,THIONVILLE,7.65,7.74,8.02,7.71
+Est Europeen,TROYES,7.35,7.5,7.91,7.34
+Grand Sud,AGDE,7.29,6.95,8.13,7.52
+Grand Sud,AIX EN PROVENCE TGV,7.75,7.46,7.95,7.46
+Grand Sud,AIX VILLE,7.69,7.84,8.12,7.46
+Grand Sud,ALBI,8.03,8.12,8.67,7.82
+Grand Sud,ANTIBES,7.43,7.91,7.57,6.88
+Grand Sud,AVIGNON CENTRE,7.3,7.76,7.48,7.08
+Grand Sud,AVIGNON TGV,8.02,7.52,8.46,7.35
+Grand Sud,BEZIERS,7.1,7.17,7.64,7.1
+Grand Sud,CANNES,7.6,8.16,7.65,7.51
+Grand Sud,CARCASSONNE,7.16,7.4,7.43,7.12
+Grand Sud,GAP,7.16,7.63,7.76,7.09
+Grand Sud,LES ARCS DRAGUIGNAN,7.54,7.05,8.24,7.12
+Grand Sud,LOURDES,7.82,8.18,8.62,7.74
+Grand Sud,MARSEILLE ST CHARLES,7.13,8.05,7.21,6.37
+Grand Sud,MONACO,8.22,8.42,9.01,7.15
+Grand Sud,MONTAUBAN VILLE BOURBON,7.76,7.32,8.31,7.44
+Grand Sud,MONTPELLIER SAINT ROCH,7.73,8.26,7.93,7.21
+Grand Sud,MONTPELLIER Sud de France,6.4,5.01,9.04,7.45
+Grand Sud,NARBONNE,7.31,7.25,7.63,6.99
+Grand Sud,NICE RIQUIER,6.68,7.72,6.23,6.22
+Grand Sud,NICE VILLE,7.45,7.95,7.86,6.78
+Grand Sud,NIMES,7.46,7.9,8.14,6.38
+Grand Sud,PERPIGNAN,7.12,7.61,7.89,7.28
+Grand Sud,SETE,7.14,7.2,7.67,7
+Grand Sud,ST RAPHAEL VALESCURE,7.47,7.83,7.84,7.65
+Grand Sud,TARBES,7.56,7.89,8.55,7.75
+Grand Sud,TOULON,7.7,7.75,7.86,7.49
+Grand Sud,TOULOUSE MATABIAU,7.38,8.21,7.92,7.07
+Grand Sud,TOULOUSE ST AGNE,7.45,8.36,8.18,6.74
+Manche Nord,AMIENS,7.4,7.98,7.7,7.29
+Manche Nord,ARRAS,7.98,8.28,8.49,7.8
+Manche Nord,CAEN,7.37,6.21,7.74,6.98
+Manche Nord,CALAIS FRETHUN,6.75,6.12,8.43,6.64
+Manche Nord,CHERBOURG,7.7,7.85,8.02,6.92
+Manche Nord,COMPIEGNE,7.44,7.95,8.3,7.31
+Manche Nord,DOUAI,7.77,8.17,7.32,7.07
+Manche Nord,DUNKERQUE,7.79,8.07,8.22,7.58
+Manche Nord,EVREUX NORMANDIE,7.14,7.38,7.75,6.53
+Manche Nord,LE HAVRE,7.41,8.34,7.58,7.72
+Manche Nord,LENS,7.63,7.55,8.28,7.61
+Manche Nord,LILLE EUROPE,6.82,8.06,7.68,6.5
+Manche Nord,LILLE FLANDRES,7.37,8.09,7.13,6.7
+Manche Nord,LISIEUX,6.5,7.56,7.29,7.06
+Manche Nord,ROUEN RIVE DROITE,7.6,7.18,8.58,7.27
+Manche Nord,TGV HAUTE PICARDIE,7.69,7.44,8.62,7.41
+Manche Nord,TROUVILLE DEAUVILLE,7.31,8,7.67,7.08
+Manche Nord,VALENCIENNES,7.87,8.25,8.33,7.76
+Nouvelle Aquitaine,AGEN,7.97,7.93,8.51,7.7
+Nouvelle Aquitaine,ANGOULEME,7.35,7.03,8.45,7.4
+Nouvelle Aquitaine,BAYONNE,7.63,7.74,8.6,7.41
+Nouvelle Aquitaine,BIARRITZ,7.54,7.43,8.35,7.46
+Nouvelle Aquitaine,BORDEAUX ST JEAN,7.73,7.98,7.96,7.27
+Nouvelle Aquitaine,BRIVE LA GAILLARDE,7.91,7.86,8.43,7.72
+Nouvelle Aquitaine,CHATELLERAULT,7.67,8.32,8.46,7.71
+Nouvelle Aquitaine,DAX,7.85,7.82,8.33,7.65
+Nouvelle Aquitaine,LA ROCHELLE VILLE,7.91,7.58,8.45,7.7
+Nouvelle Aquitaine,LIBOURNE,8.04,8.3,8.02,7.64
+Nouvelle Aquitaine,LIMOGES BENEDICTINS,8,8,8.56,7.59
+Nouvelle Aquitaine,NIORT,7.86,7.8,8.56,7.9
+Nouvelle Aquitaine,PAU,7.82,7.9,8.82,7.74
+Nouvelle Aquitaine,POITIERS,7.89,7.99,8.38,7.5
