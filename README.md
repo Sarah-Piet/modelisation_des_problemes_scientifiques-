@@ -40,7 +40,7 @@ La partie suivante est la plus théorique et parfois très formelle; le but est 
 
 ### Séance 3 : Mardi 20/11/2018, 08h00-10h00 en B12D i-210
 
-→ Faire le [TP3](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/TPs/TP3%20-%20Classification%20de%20chiffres.ipynb) (TPs/TP3- Classification de chiffres), vous pouvez toujours vous aider de [ce notebook](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/Aides/M%C3%A9thodes%20statistiques.ipynb) (Aides/Méthodes Statistiques).
+→ Faire le [TP3](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/TPs/TP3%20-%20Classification%20de%20chiffres%20et%20comptage%20de%20mots.ipynb) (TPs/TP3- Classification de chiffres et comptage de mots), vous pouvez toujours vous aider de [ce notebook](https://github.com/llesoil/modelisation_des_problemes_scientifiques-/blob/master/Aides/M%C3%A9thodes%20statistiques.ipynb) (Aides/Méthodes Statistiques).
 
 Si vous avez eu des difficultés à faire le tp de la séance 2, commencez plutôt par la partie B.
 
