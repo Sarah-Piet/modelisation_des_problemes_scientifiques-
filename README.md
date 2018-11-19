@@ -47,3 +47,5 @@ Si vous avez eu des difficultés à faire le tp de la séance 2, commencez plut�
 ### Séance 4 : Jeudi 29/11/2018, 14h00-16h00 en B12D i-214
 
 → TP noté
+
+→ Si  vous avez un peu de temps pour un [feedback](https://docs.google.com/forms/d/e/1FAIpQLSevEhFTmfwP_BJqPWze0kN_57JOCasRtUR7EyebZRpUisFYsw/viewform?usp=sf_link)
