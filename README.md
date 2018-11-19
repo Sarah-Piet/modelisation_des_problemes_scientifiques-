@@ -44,6 +44,6 @@ La partie suivante est la plus théorique et parfois très formelle; le but est 
 
 Si vous avez eu des difficultés à faire le tp de la séance 2, commencez plutôt par la partie B.
 
-### Séance 4 : Mercredi 28/11/2018, 10h15-12h15 en B12D i-214
+### Séance 4 : Jeudi 29/11/2018, 14h00-16h00 en B12D i-214
 
 → TP noté
