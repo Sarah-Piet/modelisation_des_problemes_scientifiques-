@@ -16,7 +16,7 @@ Vous pouvez me contacter à cette adresse mail : luc.lesoil@irisa.fr
 ## Organisation
 
 - 3 x 4h de cours, un tp noté à rendre. Pour le tp noté, vous aurez un délai (à définir ensemble en fonction de votre charge de travail du moment) pour m'envoyer votre travail. Amenez vos ordinateurs, ce sont des séances pratiques!
-- Chaque dossier contient un cours et le tp associé
+- Chaque dossier 'TP x', contient un cours sur x et le tp associé. Le dossier ressources contient des jeux de données et des anciens tps.
 -  Si vous êtes perdus, ou que vous avez besoin d'aide, n'hésitez pas à m'appeler! N'hésitez pas à avancer dans les questions si vous vous sentez à l'aise.
 
 ## Séances
