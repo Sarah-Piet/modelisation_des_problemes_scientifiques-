@@ -31,6 +31,8 @@ TP noté à rendre un peu après le dernier cours, délai à définir en fonctio
 
 ## Contenu du module
 
+Le module est séparé en différentes parties.
+
 ### 1. Introduction au module (30 min)
 
 **But** : Introduire les objectifs du module
@@ -70,17 +72,17 @@ Pour aller plus loin :
 
 ### 4. Programmation avancée avec python (4h)
 
-**But** : Notions avancées de python, programmations orientée objet et fonctionnelles
+**But** : Notions avancées de python, programmations orientée objet et fonctionnelle
 
 - Présentation : Slides/OOP.pdf
 - TP et cours.ipynb
 
 Pour aller plus loin :
-- [Tuto openclassroom pour approfondir sur python](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python)
 - Resources/Python_shortcut.pdf
 - Resources/DivingDeeper.md
 - Étudier : Resources/OOPWithPythonExample.ipynb
 - Faire : Resources/tp3
+- [Tuto openclassroom pour approfondir sur python](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python)
 
 ### 5. Docker (1h-2h)
 
