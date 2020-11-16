@@ -31,14 +31,14 @@ TP noté à rendre un peu après le dernier cours, délai à définir en fonctio
 
 ## Contenu du module
 
-### 1.intro : introduction au module (30 min)
+### 1. Introduction au module (30 min)
 
 **But** : Introduire les objectifs du module
 
 - Point sur l'organisation -> repo github, notation, attendus, etc.
 - Présentation : Challenge of SciModelling.pdf
 
-### 2.bases : les bases de python (4-5h)
+### 2. Les bases de python (4-5h)
 
 **But** : Apprendre les bases de python et savoir utiliser un notebook
 
@@ -53,7 +53,7 @@ Pour aller plus loin :
 - resources/TD_Lucas_Bourneuf.pdf
 - [Tuto openclassroom sur jupyter notebook](https://openclassrooms.com/fr/courses/4452741-decouvrez-les-librairies-python-pour-la-data-science/5574801-faites-vos-premiers-pas-dans-un-notebook-jupyter)
 
-### 3.outils : reproductibilité avec python (2h)
+### 3. Outils pour la reproductibilité avec python (2h)
 
 **But** : Comprendre ce que sont les modules, créer un environnement python pour réutiliser du code et reproduire des résultats
 
@@ -68,7 +68,7 @@ Pour aller plus loin :
 - Exemple : resources/libraryImport.py
 - [Tuto openclassroom sur les environnements virtuels](https://openclassrooms.com/fr/courses/6951236-mettez-en-place-votre-environnement-python/7014018-creez-votre-premier-environnement-virtuel)
 
-### 4.programmer (4h)
+### 4. Programmation avancée avec python (4h)
 
 **But** : Notions avancées de python, programmations orientée objet et fonctionnelles
 
@@ -82,7 +82,7 @@ Pour aller plus loin :
 - Étudier : Resources/OOPWithPythonExample.ipynb
 - Faire : Resources/tp3
 
-### 5.docker (1h-2h)
+### 5. Docker (1h-2h)
 
 **But** : utiliser docker pour containeriser vos projets
 
@@ -93,14 +93,14 @@ Pour aller plus loin :
 Pour aller plus loin :
 - [Tuto openclassroom sur docker](https://openclassrooms.com/fr/courses/2035766-optimisez-votre-deploiement-en-creant-des-conteneurs-avec-docker/6211306-decouvrez-les-conteneurs)
 
-### 6.numpy (4h)
+### 6. Numpy (4h)
 
 **But** : Découvrir et utiliser les fonctionnalités et les tableaux de numpy
 
 - Présentation : numpy.pdf
 - TP1 - Manipulation d'images.ipynb
 
-### 7.pandas_matplotlib (4h)
+### 7. Pandas et Matplotlib (4h)
 
 **But** : Gérer des jeux de données avec python, et créer des graphiques
 
@@ -108,7 +108,7 @@ Pour aller plus loin :
 - Présentation : matplotlib.pdf
 - TP2 - Le prix du carburant en France.ipynb
 
-### 8.scipy_sklearn (4h)
+### 8. Scipy et Scikit-learn (4h)
 
 **But** : Être capable de générer des statistiques sur les données
 
@@ -118,5 +118,6 @@ Pour aller plus loin :
 
 ## Crédits
 
-Les parties 1. à 5. sont extraites du [cours de June Sallou](https://github.com/Jnsll/ModelisationScientifique)
+- Les parties 1. à 5. sont extraites du [cours de June Sallou](https://github.com/Jnsll/ModelisationScientifique)
+- Les références sont listées cours par cours.
 
