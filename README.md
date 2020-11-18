@@ -38,7 +38,7 @@ Récuperez le contenu du repo github
 
 - soit via la commande
 
-> git clone git clone https://github.com/llesoil/modelisation_des_problemes_scientifiques-/
+  `git clone https://github.com/llesoil/modelisation_des_problemes_scientifiques-/`
 
 - soit en téléchargeant le zip, puis en le dézippant.
 
