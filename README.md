@@ -95,7 +95,7 @@ Pour aller plus loin :
 **But** : Notions avancées de python, programmations orientée objet et fonctionnelle
 
 - Présentation : Slides/OOP.pdf
-- TP et cours.ipynb
+- TP - Programmer avec python.ipynb
 
 Pour aller plus loin :
 - Resources/Python_shortcut.pdf
