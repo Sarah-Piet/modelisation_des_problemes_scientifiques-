@@ -140,6 +140,6 @@ Pour aller plus loin :
 
 ## Crédits
 
-- Les parties 1. à 5. sont extraites du [cours de June Sallou](https://github.com/Jnsll/ModelisationScientifique)
+- Les parties cours de 1. à 5. sont extraites du [cours de June Sallou](https://github.com/Jnsll/ModelisationScientifique)
 - Les références sont listées cours par cours.
 
