@@ -29,6 +29,26 @@ TP noté à rendre un peu après le dernier cours, délai à définir en fonctio
 #### 7. Séance 7 (4h, 20/01/2021)
 #### 8. Séance 8 (4h, 22/01/2021)
 
+
+## Installation 
+
+#### Contenu du cours
+
+Récuperez le contenu du repo github
+
+- soit via la commande
+
+  `git clone https://github.com/llesoil/modelisation_des_problemes_scientifiques-/`
+
+- soit en téléchargeant le zip, puis en le dézippant.
+
+#### Anaconda
+
+Téléchargez anaconda : https://www.anaconda.com/products/individual
+
+Ou jupyter notebook : https://jupyter.org/install
+
+
 ## Contenu du module
 
 Le module est séparé en différentes parties.
