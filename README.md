@@ -53,6 +53,8 @@ Ou jupyter notebook : https://jupyter.org/install
 
 Le module est séparé en différentes parties.
 
+Pour chaque partie, une proposition de corrigé est fournie avec le TP (sauf pour le TP noté!).
+
 ### 1. Introduction au module (30 min)
 
 **But** : Introduire les objectifs du module
@@ -95,7 +97,7 @@ Pour aller plus loin :
 **But** : Notions avancées de python, programmations orientée objet et fonctionnelle
 
 - Présentation : Slides/OOP.pdf
-- TP - Programmer avec python.ipynb
+- TP - Programmer avec python.ipynb -> Cours + projet sur le jeu de Yam's
 
 Pour aller plus loin :
 - Resources/Python_shortcut.pdf
@@ -120,7 +122,11 @@ Pour aller plus loin :
 **But** : Découvrir et utiliser les fonctionnalités et les tableaux de numpy
 
 - Présentation : numpy.pdf
-- TP1 - Manipulation d'images.ipynb
+- TP - Manipulation d'images.ipynb
+
+Pour aller plus loin:
+- Regarder Numpy_cheat_Sheet.pdf
+- Consulter le notebook Numpy.ipynb
 
 ### 7. Pandas et Matplotlib (4h)
 
@@ -128,7 +134,11 @@ Pour aller plus loin :
 
 - Présentation : pandas.pdf
 - Présentation : matplotlib.pdf
-- TP2 - Le prix du carburant en France.ipynb
+- TP - Le prix du carburant en France.ipynb
+
+Pour aller plus loin:
+- Regarder Matplotlib_cheat_Sheet.pdf
+- Consulter les notebooks Pandas.ipynb et Visualisation des données.ipynb
 
 ### 8. Scipy et Scikit-learn (4h)
 
@@ -136,7 +146,11 @@ Pour aller plus loin :
 
 - Présentation : scipy.pdf
 - Présentation : scikit_learn.pdf
-- TP3 - Le réchauffement climatique.ipynb
+- TP - Le réchauffement climatique.ipynb
+
+Pour aller plus loin:
+- Regarder full_cheat_Sheet.pdf
+- Consulter les notebooks Activité optimisation.ipynb et Méthode statistiques.ipynb
 
 ## Crédits
 
