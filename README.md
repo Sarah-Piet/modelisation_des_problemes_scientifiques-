@@ -67,10 +67,10 @@ Pour chaque partie, une proposition de corrigé est fournie avec le TP (sauf pou
 **But** : Apprendre les bases de python et savoir utiliser un notebook
 
 - Installation d'anaconda
-- Présentation : JupyterNotebook.pdf
 - TP et cours.ipynb
 
 Pour aller plus loin :
+- Présentation : JupyterNotebook.pdf
 - Regarder le notebook : resources/Python.ipynb
 - Les spécificités des notebooks; widgets, google colab, etc.
 - resources/I Don't Like Notebooks - Joel Grus - #JupyterCon 2018.pdf
@@ -81,9 +81,8 @@ Pour aller plus loin :
 
 **But** : Comprendre ce que sont les modules, créer un environnement python pour réutiliser du code et reproduire des résultats
 
-- Démo anaconda
 - Présentation : Tools4Python.pdf
-- Présentation : Modules.pdf
+- Démo anaconda
 
 Pour aller plus loin :
 - Regarder le notebook : resources/Tool for Python.ipynb
@@ -97,7 +96,7 @@ Pour aller plus loin :
 **But** : Notions avancées de python, programmations orientée objet et fonctionnelle
 
 - Présentation : Slides/OOP.pdf
-- TP - Programmer avec python.ipynb -> Cours + projet sur le jeu de Yam's
+- TP - Programmer avec python.ipynb -> Cours + exercice sur le jeu de Yam's
 
 Pour aller plus loin :
 - Resources/Python_shortcut.pdf
